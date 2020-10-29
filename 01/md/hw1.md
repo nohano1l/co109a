@@ -1,14 +1,14 @@
 ## HW1
 1. Not
 * picture
-![](55650.jpg)
+![Not](55650.jpg)
 * code
 ```
     Nand(a=in, b=in, out=out);
 ```
 2. And
 * picture
-![](55651.jpg)
+![And](55651.jpg)
 * code
 ```
     Nand(a=a,b=b,out=anandb);
@@ -16,7 +16,7 @@
 ```
 3. Or
 * picture
-![](55652.jpg)
+![Or](55652.jpg)
 * code
 ```
     Not(in=a, out=na);
@@ -25,7 +25,7 @@
 ```
 4. Xor
 * picture
-![](55653.jpg)
+![Xor](55653.jpg)
 * code
 ```
     Or(a=a,b=b,out=c1);
@@ -34,7 +34,7 @@
 ```
 5. Mux
 * picture
-![](55654.jpg)
+![Mux](55654.jpg)
 * code
 ```
     Not(in=sel,out=nsel);
@@ -44,7 +44,7 @@
 ```
 6. DMux
 * picture
-![](55655.jpg)
+![DMux](55655.jpg)
 * code
 ```
     Not(in=sel,out=nsel);
