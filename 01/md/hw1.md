@@ -1,14 +1,14 @@
 ## HW1
 1. Not
 * picture
-![Not](/co109a/01/jpg/55650.jpg)
+![Not](https://nohano1l.github.io/co109a/01/jpg/55650.jpg)
 * code
 ```
     Nand(a=in, b=in, out=out);
 ```
 2. And
 * picture
-![And](/co109a/01/jpg/55651.jpg)
+![And](https://nohano1l.github.io/co109a/01/jpg/55651.jpg)
 * code
 ```
     Nand(a=a,b=b,out=anandb);
@@ -16,7 +16,7 @@
 ```
 3. Or
 * picture
-![Or](/co109a/01/jpg/55652.jpg)
+![Or](https://nohano1l.github.io/co109a/01/jpg/55652.jpg)
 * code
 ```
     Not(in=a, out=na);
@@ -25,7 +25,7 @@
 ```
 4. Xor
 * picture
-![Xor](/co109a/01/jpg/55653.jpg)
+![Xor](https://nohano1l.github.io/co109a/01/jpg/55653.jpg)
 * code
 ```
     Or(a=a,b=b,out=c1);
@@ -34,7 +34,7 @@
 ```
 5. Mux
 * picture
-![Mux](/co109a/01/jpg/55654.jpg)
+![Mux](https://nohano1l.github.io/co109a/01/jpg/55654.jpg)
 * code
 ```
     Not(in=sel,out=nsel);
@@ -44,7 +44,7 @@
 ```
 6. DMux
 * picture
-![DMux](/co109a/01/jpg/55655.jpg)
+![DMux](https://nohano1l.github.io/co109a/01/jpg/55655.jpg)
 * code
 ```
     Not(in=sel,out=nsel);
