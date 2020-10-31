@@ -1,9 +1,9 @@
 ## HW2
 ### 迪摩根定理證明
-![證明](https://nohano1l.github.io/co109a/01/jpg/55658.jpg)
+![證明](https://nohano1l.github.io/co109a/01/jpg/55758.jpg)
 ### 1. Not16
 * picture
-![Not16](https://nohano1l.github.io/co109a/01/jpg/55659.jpg)
+![Not16](https://nohano1l.github.io/co109a/01/jpg/55759.jpg)
 * code
 ```
     Not(in=in[0],out=out[0]);
@@ -25,7 +25,7 @@
 ```
 ### 2. And16
 * picture
-![And16](https://nohano1l.github.io/co109a/01/jpg/55660.jpg)
+![And16](https://nohano1l.github.io/co109a/01/jpg/55760.jpg)
 * code
 ```
     And(a=a[0],b=b[0],out=out[0]);
@@ -47,7 +47,7 @@
 ```
 ### 3. Or16
 * picture
-![Or16](https://nohano1l.github.io/co109a/01/jpg/55661.jpg)
+![Or16](https://nohano1l.github.io/co109a/01/jpg/55761.jpg)
 * code
 ```
     Or(a=a[0],b=b[0],out=out[0]);
@@ -69,7 +69,7 @@
 ```
 ### 4. Mux16
 * picture
-![Mux16](https://nohano1l.github.io/co109a/01/jpg/55662.jpg)
+![Mux16](https://nohano1l.github.io/co109a/01/jpg/55762.jpg)
 * code
 ```
     Mux(a=a[0],b=b[0],sel=sel,out=out[0]);
@@ -91,7 +91,7 @@
 ```
 ### 5. Or8way
 * picture
-![Or8way](https://nohano1l.github.io/co109a/01/jpg/55663.jpg)
+![Or8way](https://nohano1l.github.io/co109a/01/jpg/55763.jpg)
 * code
 ```
     Or(a=in[0],b=in[1],out=c1);
@@ -104,7 +104,7 @@
 ```
 ### 6. Mux4Way16
 * picture
-![Mux4Way16](https://nohano1l.github.io/co109a/01/jpg/55664.jpg)
+![Mux4Way16](https://nohano1l.github.io/co109a/01/jpg/55764.jpg)
 * code
 ```
     Mux16(a=a,b=b,sel=sel[0],out=Muxab);
@@ -113,7 +113,7 @@
 ```
 ### 7. Mux8Way16
 * picture
-![Mux8Way16](https://nohano1l.github.io/co109a/01/jpg/55665.jpg)
+![Mux8Way16](https://nohano1l.github.io/co109a/01/jpg/55765.jpg)
 * code
 ```
     Mux4Way16(a=a,b=b,c=c,d=d,sel=sel[0..1],out=outabcd);
@@ -122,7 +122,7 @@
 ```
 ### 8. DMux4Way
 * picture
-![DMux4Way](https://nohano1l.github.io/co109a/01/jpg/55666.jpg)
+![DMux4Way](https://nohano1l.github.io/co109a/01/jpg/55766.jpg)
 * code
 ```
     DMux(in=in,sel=sel[1],a=DMuxa,b=DMuxb);
@@ -131,7 +131,7 @@
 ```
 ### 9. DMux8Way
 * picture
-![DMux8Way](https://nohano1l.github.io/co109a/01/jpg/55667.jpg)
+![DMux8Way](https://nohano1l.github.io/co109a/01/jpg/55767.jpg)
 * code
 ```
     DMux(in=in,sel=sel[2],a=DMuxa,b=DMuxb);
