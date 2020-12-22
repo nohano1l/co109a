@@ -21,7 +21,9 @@ void main()
 ```
 ### HackCPU 組合語言
 * picture
+
 ![HackCPU 組合語言](https://nohano1l.github.io/co109a/exercise/1.png)
+
 * code
 ```
 @0
