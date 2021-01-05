@@ -1,10 +1,10 @@
 ### Mult
 * picture
 ![Mult](https://nohano1l.github.io/co109a/04/mult/mult.png)
+* [mult.asm](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.asm)
+* [mult.hack](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.hack)
+* [mult.out](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.out)
 * code
-[mult.asm](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.asm)
-[mult.hack](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.hack)
-[mult.out](https://github.com/nohano1l/co109a/blob/master/04/mult/mult.out)
 ```
 @2    // R2=0
 M=0
@@ -29,6 +29,7 @@ D=M
 D;JNE
 ```
 ### Step
-把寫好的code在Assembler.bat轉換,再開啟CPUEmulator.bat
-load program-->mult.hack
-load script -->mult.tst
+* 把寫好的code在Assembler.bat轉換
+* 開啟CPUEmulator.bat
+* load program-->mult.hack
+* load script -->mult.tst
